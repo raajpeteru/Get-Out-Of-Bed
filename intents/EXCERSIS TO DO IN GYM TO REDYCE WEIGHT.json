@@ -1,0 +1,35 @@
+{
+  "id": "0a5c4ca4-ee3a-4c2f-baf9-6ba1f8e0d29a",
+  "name": "EXCERSIS TO DO IN GYM TO REDYCE WEIGHT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "10 Push-Ups\n15 Squats\n20 Jumping Jacks\n10 Dumbbell Rows\n30-second Plank"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "e8c2a5d7-ac17-42ba-a807-7cc4776e96d2",
+  "name": "Side Fat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Reducing side fat, often referred to as \"love handles,\" involves a combination of targeted exercises and overall fat loss through a balanced diet and cardio. Here are some effective workouts that can help:\n\nSide Plank Hip Lifts:\n\nStart in a side plank position with your elbow directly under your shoulder and your body in a straight line.\nLower your hips towards the floor and then lift them back up.\nRepeat for 10-15 reps on each side.\nRussian Twists:\n\nSit on the floor with your knees bent and feet flat.\nLean back slightly, keeping your back straight, and clasp your hands together.\nTwist your torso to the right, bringing your hands beside your right hip.\nReturn to the center and then twist to the left.\nAim for 15-20 twists on each side.\nBicycle Crunches:\n\nLie on your back with your hands behind your head and legs lifted, knees bent at 90 degrees.\nBring your right elbow towards your left knee while straightening your right leg.\nSwitch sides, bringing your left elbow towards your right knee.\nContinue alternating sides in a pedaling motion for 15-20 reps on each side.\nWoodchoppers:\n\nStand with your feet shoulder-width apart, holding a dumbbell or medicine ball with both hands.\nRotate your torso to one side, raising the weight diagonally across your body.\nPivot your feet and hips as you swing the weight down and across to the opposite side.\nPerform 12-15 reps on each side.\nSide-to-Side Medicine Ball Slams:\n\nStand with your feet hip-width apart, holding a medicine ball with both hands.\nRaise the ball overhead and slam it down to one side of your body.\nCatch the ball on the bounce or pick it up, then slam it down to the other side.\nRepeat for 12-15 reps on each side.\nRemember, while these exercises target the muscles around your waist and can help tone and strengthen, reducing overall body fat is key to seeing results. Incorporate these exercises into a comprehensive fitness routine that includes cardio (like running, cycling, or swimming) and a healthy diet to achieve your goals effectively."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

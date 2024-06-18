@@ -1,0 +1,42 @@
+{
+  "id": "e3b6d31e-4463-4ea5-a773-14397a2a7124",
+  "name": "GAIN MY MUSCLE MASS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Frequency: Train each muscle group 2-3 times per week.\nVolume: Aim for 3-4 sets of 8-12 repetitions per exercise.\nProgressive Overload: Gradually increase the weight you lift to continually challenge your muscles.\nRest: Take 1-2 minutes of rest between sets to allow for muscle recovery."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "c8b33bf3-6a0b-4103-876e-dfce681610b8",
+  "name": "REDUCE BODY WEIGHT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "OKAY, DON\u0027T WORRY ABOUT THAT I CAN HELP YOU,IT\u0027S A VERY COMMON THING NOWADAYS,YOU SHOULD FOLLOW A STRICT DITE,Walking, especially at a quick pace\nRunning\nBiking\nRowing\nSwimming\nCycling"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

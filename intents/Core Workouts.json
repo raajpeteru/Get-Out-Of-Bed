@@ -1,0 +1,42 @@
+{
+  "id": "e86c842f-e1d8-45f8-a309-a86b66c96950",
+  "name": "Core Workouts",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure, here are some effective core workouts you can try:\n\nPlank: Hold your body in a push-up position with your elbows bent 90 degrees and your weight resting on your forearms. Keep your body in a straight line from head to heels.\n\nRussian Twists: Sit on the floor with your knees bent and feet lifted. Lean back slightly and twist your torso from side to side, touching your hands to the floor beside you.\n\nLeg Raises: Lie on your back with your legs straight. Lift your legs to a 90-degree angle or as high as you can without arching your back, then slowly lower them back down.\n\nBicycle Crunches: Lie on your back with your hands behind your head. Bring your knees toward your chest and lift your shoulder blades off the ground. Rotate to bring your right elbow toward your left knee, then switch sides.\n\nMountain Climbers: Get into a plank position and quickly alternate bringing each knee toward your chest, as if you are climbing a mountain.\n\nDead Bug: Lie on your back with your arms extended toward the ceiling and your legs lifted with knees bent at 90 degrees. Lower your right arm and left leg toward the floor while keeping your lower back pressed into the ground, then return to the starting position and switch sides.\n\nFlutter Kicks: Lie on your back with your hands under your glutes. Lift your legs a few inches off the ground and alternate kicking them up and down in a fluttering motion.\n\nRemember to engage your core muscles throughout these exercises and maintain proper form to maximize effectiveness and minimize the risk of injury. Start with a number of repetitions and sets that challenge you without compromising your form, and gradually increase as you get stronger."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

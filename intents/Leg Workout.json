@@ -1,0 +1,42 @@
+{
+  "id": "e6d69510-d20f-4797-abd6-89c931d6dcc4",
+  "name": "Leg Workout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure, here are some effective leg workouts you can try:\n\nSquats: Great for overall leg development. Stand with feet shoulder-width apart, squat down as if sitting into a chair, keeping your back straight, then push back up through your heels.\n\nLunges: Targeting quadriceps, hamstrings, and glutes. Step forward with one leg, lowering your hips until both knees are bent at about a 90-degree angle, then return to starting position and repeat with the other leg.\n\nDeadlifts: Focus on hamstrings and glutes. Stand with feet hip-width apart, bend at the hips to lower the weights (barbells or dumbbells) towards the floor, then return to standing.\n\nLeg Press: Using a leg press machine, push against the resistance with your legs. This exercise targets the quadriceps, hamstrings, and glutes.\n\nCalf Raises: Stand on a step or platform with heels hanging off the edge, then rise up on your toes as high as you can and lower back down. This targets the calves.\n\nStep-Ups: Step onto a sturdy platform or bench with one foot, pushing through the heel to lift your body up, then step back down. Alternate legs.\n\nWall Sits: Sit against a wall with your knees bent at a 90-degree angle, holding the position for as long as you can. This is great for building endurance in your leg muscles.\n\nRemember to warm up before starting your workout and to adjust weights and repetitions based on your fitness level and goals."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

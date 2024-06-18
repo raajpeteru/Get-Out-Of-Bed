@@ -1,0 +1,42 @@
+{
+  "id": "e7bf51d1-f422-40cf-a6c2-d893318070d5",
+  "name": "Back Workout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure, I would love to assist to you on back muscle your back\\lat was made of Latissimus Dorsi (Lats), Trapezius (Traps), Rhomboids, Erector Spinae (Lower back muscles), \nLatissimus Dorsi (Lats):\nLat Pulldown: Use a cable machine with a wide grip bar, pulling the bar down to chest level.\nPull-Ups: Hang from a bar with hands wider than shoulder-width apart, pulling your body up until your chin is above the bar.\nBent-Over Rows: Hold a barbell or dumbbells, bend at the waist with a slight bend in the knees, and row the weight towards your abdomen.\n\nTrapezius (Traps):\nDumbbell Shrugs: Stand with dumbbells in each hand, and shrug your shoulders upward.\nBarbell Shrugs: Similar to dumbbell shrugs but using a barbell instead.\nUpright Rows: Hold a barbell or dumbbells in front of your thighs and raise them towards your chin, keeping elbows higher than wrists.\n\nRhomboids:\nSeated Rows: Sit at a rowing machine or use a cable machine with a close grip, pulling the handle towards your abdomen.\nBent-Over Rows: Same as for lats, but focus on squeezing the shoulder blades together at the top of the movement.\nFace Pulls: Attach a rope to a cable machine at head height, and pull the rope towards your face while keeping elbows high.\n\nErector Spinae (Lower back muscles):\nDeadlifts: Stand with a barbell in front of you, squat down to lift it, keeping your back straight.\nGood Mornings: Hold a barbell across your shoulders, bend forward at the waist, and return to upright position.\nBack Extensions: Use a back extension machine or lie face down on a bench and lift your upper body.\n\nPosterior Deltoids (Shoulder muscles, part of the back):\nRear Delt Flyes: Hold dumbbells with arms extended in front of you, then raise them out to the sides until arms are parallel to the ground.\nBent-Over Dumbbell Raises: Bend forward at the waist with dumbbells in each hand, then lift them out to the sides until arms are parallel to the ground.\n\nThese exercises will help you target and strengthen the different muscles of your back effectively."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "131ad697-88cc-4217-b4fd-0738b878a076",
+  "name": "Chest Excerses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure, I would love to assist to you on chest muscle \nFirstly your chest region  is  made of three major muscles \nUpper chest\nLower chest\nPectoral Region, u have to plan according to the muscle you want to train\nhere comes the workout \nincline bench press\ndecline dumbble press\npec fly and close grip plate press"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

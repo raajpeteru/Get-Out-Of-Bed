@@ -1,0 +1,28 @@
+[
+  {
+    "id": "8eb28f87-9558-4462-a4b3-8bfbd2c5dde0",
+    "data": [
+      {
+        "text": "I want to train my core can you give me some tips or exercises",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "614c6184-bb30-4ee4-b434-a774e548aded",
+    "data": [
+      {
+        "text": "I want to train my core",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

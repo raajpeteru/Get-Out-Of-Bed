@@ -1,0 +1,42 @@
+{
+  "id": "e11294ca-bb81-4e56-abd2-ddf9c1b66277",
+  "name": "Bicep workout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Barbell Curl:\n\nStand with feet shoulder-width apart, hold a barbell with an underhand grip, and curl the barbell towards your chest while keeping your elbows close to your body.\nDumbbell Curl:\n\nHold dumbbells at your sides with palms facing forward, and curl the dumbbells towards your shoulders, rotating your palms as you lift.\nHammer Curl:\n\nHold dumbbells at your sides with palms facing each other (neutral grip), and curl the dumbbells towards your shoulders without rotating your wrists.\nPreacher Curl:\n\nUse a preacher curl bench or an incline bench to support your arms, then curl a barbell or dumbbells towards your shoulders, focusing on the contraction of the biceps.\nCable Curl:\n\nAttach a straight bar or rope attachment to a low pulley cable machine, stand with feet shoulder-width apart, and curl the bar or rope towards your shoulders, keeping elbows close to your body.\nConcentration Curl:\n\nSit on a bench with legs spread, hold a dumbbell with one hand between your legs, and curl the dumbbell towards your shoulder while keeping your upper arm stationary.\n21s:\n\nPerform 7 reps of partial curls from bottom to halfway, then 7 reps from halfway to top, and finish with 7 full-range curls.\nReverse Curl:\n\nHold a barbell with an overhand grip (palms facing down) or use dumbbells, and curl the weight towards your shoulders, focusing on the brachioradialis and forearm muscles.\nThese exercises target the biceps from various angles and with different grips, helping to develop strength and size in your arms. Incorporate a variety of these exercises into your workout routine for balanced bicep development."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

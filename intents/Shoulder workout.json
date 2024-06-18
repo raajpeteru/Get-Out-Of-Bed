@@ -1,0 +1,42 @@
+{
+  "id": "62a53dbd-217f-4173-9d66-7c8c0bc157ab",
+  "name": "Shoulder workout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! Here are some effective shoulder workouts you can try:\n\nShoulder Press (Barbell or Dumbbell):\n\nSit or stand with a dumbbell or barbell at shoulder height.\nPress the weight directly overhead, extending your arms fully.\nLower the weight back down to shoulder height and repeat.\nLateral Raises:\n\nStand with dumbbells at your sides.\nRaise your arms straight out to the sides until they are at shoulder height.\nLower them back down slowly and repeat.\nFront Raises:\n\nStand with dumbbells in front of your thighs, palms facing your body.\nLift the dumbbells straight up in front of you until they reach shoulder height.\nLower them back down slowly and repeat.\nArnold Press:\n\nStart with dumbbells in front of your shoulders with palms facing you.\nPress the dumbbells up while rotating your palms to face forward at the top.\nLower back down with the reverse motion.\nUpright Rows:\n\nHold a barbell or dumbbells with an overhand grip, hands about shoulder-width apart.\nPull the weight straight up, leading with your elbows, until it reaches chin level.\nLower back down slowly and repeat.\nReverse Flyes:\n\nBend forward at the hips, holding dumbbells in front of your thighs with palms facing each other.\nRaise your arms out to the sides until they are parallel to the ground.\nLower back down slowly and repeat.\nPush Press:\n\nStart with a barbell or dumbbells at shoulder height.\nBend your knees slightly, then explosively push the weight overhead by straightening your legs and pressing with your arms.\nLower back down under control and repeat.\nRemember to warm up properly before starting your workout, and adjust the weight and reps based on your fitness level and goals. Proper form is crucial to prevent injury and maximize effectiveness."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

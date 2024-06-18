@@ -1,0 +1,42 @@
+{
+  "id": "1ad84e92-8f50-42fd-bea8-6c60fbba7c32",
+  "name": "Tricep Workout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure, here are some effective tricep workouts you can try:\n\nTricep Dips: Using parallel bars or a sturdy bench, lower your body until your elbows are at 90 degrees, then push back up.\n\nTricep Pushdowns: Use a cable machine with a straight or rope attachment, push the bar down while keeping your upper arms stationary.\n\nClose-Grip Bench Press: Grip the barbell with hands closer than shoulder-width apart, lower it to your chest, and press it back up.\n\nOverhead Tricep Extension: Use a dumbbell or cable, hold it overhead with both hands, and lower the weight behind your head, then extend your arms upward.\n\nTricep Kickbacks: Hold a dumbbell in each hand, bend your knees slightly, hinge forward at the hips, and extend your arms straight back behind you.\n\nSkull Crushers: Lie on a bench with a barbell or dumbbells, lower the weight towards your forehead by bending your elbows, then extend your arms back up.\n\nDiamond Push-Ups: Place your hands close together under your chest in a diamond shape, lower your body, keeping elbows close to your sides, and push back up.\n\nRemember to warm up properly before starting any workout, and adjust the weights and repetitions according to your fitness level and goals."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
